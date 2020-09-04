@@ -12,32 +12,27 @@ Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student
 
 <br />
 
-- I am a Competitive Programmer and Data Science Enthusiast. 
-- My research interests lie in leveraging Machine Learning and Deep Learning in intersecting fields of computer science.
-- I am deeply passionate about coding and an advocate of collaborative Open Source Programming in the fast-paced digital world.
-- Additionally, I mostly focus on Backend development in developer roles.
+- I am a Competitive Programmer🙌 and Data Science Enthusiast📈. 
+- My research interests lie in leveraging Machine Learning and Deep Learning in intersecting fields of 💻 computer science.
+- I am deeply passionate about coding and an advocate of collaborative :octocat:  Open Source Programming in the fast-paced 🌐 digital world.
+- Additionally, I mostly focus on 📋 Backend development in developer roles.
 
 **I am seeking a 6-month internship required for the fulfillment of my degree, starting in January 2021. 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)**
 
 
 #### Currently, I am:
 
-**AnitaB.org**
+👉 **AnitaB.org** | Mentor, ***Open Source Hack***; 3 months, 2020
 
-Mentor, ***Open Source Hack***; 3 months, 2020
-- Mentoring first ever Open Source Hack participants.
-- Mentor for mentorship-backend repository. Technologies: Python/ Flask, Swagger UI, GitHub. 
+* Mentoring first ever Open Source Hack participants. 
+* Mentor for mentorship-backend repository. Technologies: Python/ Flask, Swagger UI, GitHub. 
 
-**Infosys**
+👉 **Infosys** | Team Lead & SPOC, **Summer of Ideas Ideathon**; 8 Weeks, 2020
+* Selected for Infosys Summer of Ideas, a global eight-week ideathon. One of the top 200 students out of the 0.1 Million applicants. 
+* Project: Annotation Tool. Keyword: Text to Speech, Automatic Speech Recognition. Creating annotation tool for Live Enterprise system. 
 
-Team Lead & SPOC, **Summer of Ideas Ideathon**; 8 Weeks, 2020
-- Selected for Infosys Summer of Ideas, a global eight-week ideathon. One of the top 200 students out of the 0.1 Million applicants. 
-- Project: Annotation Tool. Keyword: Text to Speech, Automatic Speech Recognition. Creating annotation tool for Live Enterprise system. 
-
-**Research Papers** 
-
-(3, ETA: End October)
-- Writing three research papers under different faculty that leverages deep learning in Computer Networks, Disaster Management and COVID-19.
+👉 **Research Papers** | 3, ETA: End October
+* Writing three research papers under different faculty that leverages deep learning in Computer Networks, Disaster Management and COVID-19.
 
 
 ### Languages and Tools:
