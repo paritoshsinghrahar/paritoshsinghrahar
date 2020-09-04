@@ -8,8 +8,8 @@
 
 I am [Paritosh Singh](paritoshsinghrahar.github.io), pursuing my Bachelors in ***Computer Science and Engineering*** at [CCET, Chandigarh](http://www.ccet.ac.in/). 
 Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student Chapter** affiliated to the ACM (Association of Computing and Machinery).
-
 <br />
+
 - I am a Competitive Programmer🙌 and Data Science Enthusiast📈. 
 - My research interests lie in leveraging Machine Learning and Deep Learning in intersecting fields of 💻 computer science.
 - I am deeply passionate about coding and an advocate of collaborative :octocat:  Open Source Programming in the fast-paced 🌐 digital world.
