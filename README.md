@@ -4,6 +4,7 @@
 [<img align="left" alt="Paritosh | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://paritoshsinghrahar.github.io/)
 [<img align="left" alt="Paritosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/paritoshsinghrahar/)
 [<img align="left" alt="Paritosh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:paritoshsinghrahar@acm.org)
+[<img align="left" alt="Paritosh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/paritoshsinghrahar)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paritoshsinghrahar.paritoshsinghrahar)
 
 I am [Paritosh Singh](paritoshsinghrahar.github.io), pursuing my Bachelors in ***Computer Science and Engineering*** at [CCET, Chandigarh](http://www.ccet.ac.in/). 
