@@ -13,7 +13,7 @@ Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student
 
 - I am a Competitive Programmer🙌 and Data Science Enthusiast📈. 
 - My research interests lie in leveraging Machine Learning and Deep Learning in intersecting fields of 💻 computer science.
-- I am deeply passionate about coding and an advocate of collaborative :octocat:  Open Source Programming in the fast-paced 🌐 digital world.
+- I am deeply passionate about coding and an advocate of collaborative :octocat:  Open Source Programming.
 - Additionally, I mostly focus on 📋 Backend development in developer roles.
 
 **I am seeking a 6-month internship required for the fulfillment of my degree, starting in January 2021. 📝[Resume](https://drive.google.com/file/d/18D7w77cQHc4aTC7M1kGG3qortDr6_Iyi/view?usp=sharing)**
