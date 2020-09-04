@@ -30,7 +30,7 @@ Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student
 * Project: Creating annotation tool for Live Enterprise system. Keyword: Text to Speech, Automatic Speech Recognition.  
 
 👉 **Research Papers** | 3, ETA: End October
-* Writing three research papers under different faculty that leverages deep learning in Computer Networks, Disaster Management and COVID-19.
+* Writing three research papers that leverage deep learning in Computer Networks, Disaster Management and COVID-19.
 
 ### Languages and Tools:
 
