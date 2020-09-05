@@ -52,7 +52,9 @@ Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student
 <img align="left" width="26px" src="https://i.ytimg.com/an/gnvi8DrLJXI/d8b2e9bb-c3a2-4c4e-aba0-2955d98718e6_mq.jpg?v=5f2024a9">
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
-[<img src="https://novatorem-theta-navy.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+### Connoisseur of Music 🎧
+
+[<img src="https://novatorem-theta-navy.vercel.app/api/spotify" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
