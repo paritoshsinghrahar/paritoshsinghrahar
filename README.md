@@ -56,4 +56,3 @@ Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student
 
 [![Spotify](https://paritoshsinghrahar.vercel.app/api/spotify)](https://open.spotify.com/user/31oovniabbdxcx56x6waoaqvljfy)
 
-
