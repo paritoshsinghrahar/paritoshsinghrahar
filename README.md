@@ -60,6 +60,6 @@ From Taylor Swift to Weeknd. I am on a constant dose of muic. From pop to bollyw
 
 Currently listening to:
 
-[<img src="https://novatorem-theta-navy.vercel.app/api/spotify" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://novatorem-theta-navy.vercel.app/api/spotify" />](https://open.spotify.com/user/31oovniabbdxcx56x6waoaqvljfy)
 
 ***Forked from: [Readme Stats](https://github.com/anuraghazra/github-readme-stats) | [Spotify Plugin](https://github.com/novatorem/novatorem) | [Visitor Badge](https://github.com/hehuapei/visitor-badge)***
