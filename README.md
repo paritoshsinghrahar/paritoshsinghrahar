@@ -56,5 +56,8 @@ Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student
 
 
 ### Connoisseur of Music 🎧
+From Taylor Swift to Weeknd. I am on a constant dose of muic. From pop to bollywood, I jam to everything...
+
+Currently listening to:
 
 [<img src="https://novatorem-theta-navy.vercel.app/api/spotify" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
