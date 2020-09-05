@@ -1,9 +1,9 @@
 ### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=paritoshsinghrahar&show_icons=true&count_private=true&hide=stars" alt="paritoshsinghrahar" />
 
-[<img align="left" alt="Paritosh | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg " />](https://paritoshsinghrahar.github.io/){:target="_blank" rel="noopener"}
-[<img align="left" alt="Paritosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/paritoshsinghrahar/){:target="_blank" rel="noopener"}
-[<img align="left" alt="Paritosh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:paritoshsinghrahar@acm.org){:target="_blank" rel="noopener"}
+[<img align="left" alt="Paritosh | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg " />](https://paritoshsinghrahar.github.io/)
+[<img align="left" alt="Paritosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/paritoshsinghrahar/)
+[<img align="left" alt="Paritosh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:paritoshsinghrahar@acm.org)
 [<img align="left" alt="Paritosh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/paritoshsinghrahar)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paritoshsinghrahar.paritoshsinghrahar)
 
