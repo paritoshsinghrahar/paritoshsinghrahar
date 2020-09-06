@@ -55,7 +55,7 @@ Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
-### Connoisseur of Music 🎧
+### Connoisseur of Music 🎧 | Life Mantra: Code 🔄 Music
 From Taylor Swift to Weeknd. I am on a constant dose of muic. From pop to bollywood, I jam to everything...
 
 Currently listening to:
