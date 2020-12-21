@@ -12,10 +12,9 @@ Currently, He is the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Studen
 
 <br />
 
-- He is a Competitive Programmer🙌 and Data Science Enthusiast📈. 
-- His research interests lie in leveraging Machine Learning and Deep Learning in intersecting fields of 💻 computer science.
+- His research interests lie in leveraging Deep Learning in intersecting fields of 💻 computer science.
 - He is deeply passionate about coding and an advocate of collaborative :octocat:  Open Source Programming.
-- Additionally, He mostly focuses on 📋 Backend development in developer roles.
+- He is a Competitive Programmer🙌 and Data Science Enthusiast📈. Additionally, He mostly focuses on 📋 Backend development in developer roles.
 
 **He is seeking a 6-month internship required for the fulfillment of the degree, starting in January 2021. 📝[Resume](https://drive.google.com/file/d/18D7w77cQHc4aTC7M1kGG3qortDr6_Iyi/view?usp=sharing)**
 
