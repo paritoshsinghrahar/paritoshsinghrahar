@@ -7,19 +7,19 @@
 [<img align="left" alt="Paritosh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/paritoshsinghrahar)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=paritoshsinghrahar.paritoshsinghrahar)
 
-I am [Paritosh Singh](paritoshsinghrahar.github.io), pursuing my Bachelors in ***Computer Science and Engineering*** at [CCET, Chandigarh](http://www.ccet.ac.in/). 
-Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student Chapter** affiliated to the ACM (Association of Computing and Machinery).
+[Paritosh Singh](paritoshsinghrahar.github.io) is an undergraduate who is pursuing his Bachelors in ***Computer Science and Engineering*** at [CCET, Chandigarh](http://www.ccet.ac.in/). 
+Currently, He is the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student Chapter** affiliated to the ACM (Association of Computing and Machinery).
 
 <br />
 
-- I am a Competitive Programmer🙌 and Data Science Enthusiast📈. 
-- My research interests lie in leveraging Machine Learning and Deep Learning in intersecting fields of 💻 computer science.
-- I am deeply passionate about coding and an advocate of collaborative :octocat:  Open Source Programming.
-- Additionally, I mostly focus on 📋 Backend development in developer roles.
+- He is a Competitive Programmer🙌 and Data Science Enthusiast📈. 
+- His research interests lie in leveraging Machine Learning and Deep Learning in intersecting fields of 💻 computer science.
+- He is deeply passionate about coding and an advocate of collaborative :octocat:  Open Source Programming.
+- Additionally, He mostly focuses on 📋 Backend development in developer roles.
 
-**I am seeking a 6-month internship required for the fulfillment of my degree, starting in January 2021. 📝[Resume](https://drive.google.com/file/d/18D7w77cQHc4aTC7M1kGG3qortDr6_Iyi/view?usp=sharing)**
+**He is seeking a 6-month internship required for the fulfillment of the degree, starting in January 2021. 📝[Resume](https://drive.google.com/file/d/18D7w77cQHc4aTC7M1kGG3qortDr6_Iyi/view?usp=sharing)**
 
-#### Currently, I am:
+#### Currently, He is:
 
 👉 **AnitaB.org** | Mentor, ***Open Source Hack***; 3 months, 2020
 
@@ -56,7 +56,7 @@ Currently, I am the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student
 
 
 ### Connoisseur of Music 🎧 | Life Mantra: Code 🔄 Music
-From Taylor Swift to Weeknd. I am on a constant dose of muic. From pop to bollywood, I jam to everything...
+From Taylor Swift to Weeknd. He is a constant dose of muic. From pop to bollywood, He jams to everything...
 
 Currently listening to:
 
