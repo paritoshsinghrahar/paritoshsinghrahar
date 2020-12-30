@@ -57,7 +57,7 @@ Currently, He is the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Studen
 
 
 ### Connoisseur of Music 🎧 | Life Mantra: Code 🔄 Music
-From Taylor Swift to Weeknd. He is a constant dose of muic. From pop to bollywood, He jams to everything...
+From Taylor Swift to Weeknd. He is on a constant dose of muic. From pop to bollywood, He jams to everything...
 
 Currently listening to:
 
