@@ -31,8 +31,8 @@ Currently, He is the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Studen
 * Selected for Infosys Summer of Ideas, a global eight-week ideathon. One of the top 200 students out of the 0.1 Million applicants. 
 * Project: Creating annotation tool for Live Enterprise system. Keyword: Text to Speech, Automatic Speech Recognition.  
 
-👉 **Research Papers** | 3, ETA: End October
-* Writing three research papers that leverage deep learning in Computer Networks, Disaster Management and COVID-19.
+👉 **Research Papers**
+* Writing research papers that leverage deep learning in Computer Networks and COVID-19.
 
 ### Languages and Tools:
 
