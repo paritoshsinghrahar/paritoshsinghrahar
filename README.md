@@ -18,43 +18,6 @@ Currently, He is the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Studen
 - He is a Competitive Programmer🙌 and Data Science Enthusiast📈. 
 - Additionally, He mostly focuses on 📋 Backend development in developer roles.
 
-**He is seeking a 6-month internship required for the fulfillment of the degree, starting in January 2021. 📝[Resume](https://drive.google.com/file/d/18D7w77cQHc4aTC7M1kGG3qortDr6_Iyi/view?usp=sharing)**
-
-#### Currently, He is:
-
-👉 **AnitaB.org** | Mentor, ***Open Source Hack***; 3 months, 2020
-
-* Mentoring first ever Open Source Hack participants. Primary mentor for mentorship-backend repository
-* Technologies: Python/ Flask, Swagger UI, GitHub. 
-
-👉 **Infosys** | Team Lead & SPOC, **Summer of Ideas Ideathon**; 8 Weeks, 2020
-* Selected for Infosys Summer of Ideas, a global eight-week ideathon. One of the top 200 students out of the 0.1 Million applicants. 
-* Project: Creating annotation tool for Live Enterprise system. Keyword: Text to Speech, Automatic Speech Recognition.  
-
-👉 **Research Papers**
-* Writing research papers that leverage deep learning in Computer Networks and COVID-19.
-
-### Languages and Tools:
-
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" width="26px" src="https://i.ytimg.com/an/gnvi8DrLJXI/d8b2e9bb-c3a2-4c4e-aba0-2955d98718e6_mq.jpg?v=5f2024a9">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" width="26px" src="https://i.ytimg.com/an/gnvi8DrLJXI/d8b2e9bb-c3a2-4c4e-aba0-2955d98718e6_mq.jpg?v=5f2024a9">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" width="26px" src="https://i.ytimg.com/an/gnvi8DrLJXI/d8b2e9bb-c3a2-4c4e-aba0-2955d98718e6_mq.jpg?v=5f2024a9">
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
 
 ### Connoisseur of Music 🎧 | Life Mantra: Code 🔄 Music
 From Taylor Swift to Weeknd. He is on a constant dose of muic. From pop to bollywood, He jams to everything...
