@@ -11,6 +11,7 @@
 Currently, He is the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Student Chapter** affiliated to the ACM (Association of Computing and Machinery).
 
 <br />
+<br />
 
 
 - His research interests lie in leveraging Deep Learning in intersecting fields of 💻 computer science.
@@ -18,12 +19,14 @@ Currently, He is the **Vice-Chairperson** 🙍🏽‍♂‍ of **CCET ACM Studen
 - He is a Competitive Programmer🙌 and Data Science Enthusiast📈. 
 - Additionally, He mostly focuses on 📋 Backend development in developer roles.
 
+<br />
+<br />
 
 ### Connoisseur of Music 🎧 | Life Mantra: Code 🔄 Music
 From Taylor Swift to Weeknd. He is on a constant dose of muic. From pop to bollywood, He jams to everything...
 
-Currently listening to:
-
 [<img src="https://novatorem-theta-navy.vercel.app/api/spotify" />](https://open.spotify.com/user/31oovniabbdxcx56x6waoaqvljfy)
+
+
 
 ***Forked from: [Readme Stats](https://github.com/anuraghazra/github-readme-stats) | [Spotify Plugin](https://github.com/novatorem/novatorem) | [Visitor Badge](https://github.com/hehuapei/visitor-badge)***
