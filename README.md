@@ -3,13 +3,9 @@
 
 **Paritosh Singh** is currently pursuing his Master of Science degree in **Computer Science (Artificial Intelligence)** from the **University of Southern California, Los Angeles, USA**. He completed his Bachelor of Engineering in Computer Science and Engineering from Panjab University, India. He is the ***University Silver Medalist*** for the B.E. CSE batch of 2017-2021, Panjab University.
 
-He has a strong background in research and is interested in Artificial Intelligence. He has interned at the premier national research institute Central Scientific Instruments Organisation (CSIR – CSIO), India. He has worked on various research projects in Embedded System Development, Machine Learning, Deep Learning, Data Analytics, and Data Visualization. He is passionate about leveraging Artificial Intelligence for social good.
-
-He is actively seeking full-time summer internship positions starting May 2022. His background in research will be an asset to organizations looking for Artificial Intelligence researcher, Machine learning Engineer, Software Development Engineer, and Robotics-based internship positions. He can be contacted over [LinkedIn](https://www.linkedin.com/in/paritoshsinghrahar/) for the relevant positions.
+He has a strong background in research and is interested in Artificial Intelligence. He has interned at the premier national research institute Central Scientific Instruments Organisation (CSIR – CSIO), India. He has worked on various research projects in Embedded System Development, Machine Learning, Deep Learning, Data Analytics, and Data Visualization. He is passionate about leveraging Artificial Intelligence for social good. 
  
- 
-- Proficient in C, C++, Python
-- Interests: Leveraging Artificial Intelligence for social good <br/>
+**He is actively seeking full-time summer internship positions starting May 2022.** He is proficient in C, C++, Python and is interested in leveraging Artificial Intelligence for social good. His background in research will be an asset to organizations looking for Artificial Intelligence Engineers and Software Development Engineers. He can be contacted over LinkedIn for the relevant positions.
 
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paritoshsinghrahar&show_icons=true&count_private=true&hide=stars" alt="paritoshsinghrahar" />
